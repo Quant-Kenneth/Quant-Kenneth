@@ -4,6 +4,7 @@
 
 - [Local Volatilitility Surface Estimation](https://github.com/Quant-Kenneth/Local-Volatility-Surface-Estimation)
 - [Credit Risk Capital Simulation](https://github.com/Quant-Kenneth/Credit-Risk-Capital-MonteCarlo-Simulation)
+- [Discounted Cash Flow](https://github.com/Quant-Kenneth/DiscountedCashFlow)
 
 <h2>👨🏻‍🏫 Academical Projects</h2>
 
