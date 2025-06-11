@@ -6,6 +6,7 @@
 - [Credit Risk Capital Simulation](https://github.com/Quant-Kenneth/Credit-Risk-Capital-MonteCarlo-Simulation)
 - [Discounted Cash Flow](https://github.com/Quant-Kenneth/DiscountedCashFlow)
 - [Volatility Fitting](https://github.com/Quant-Kenneth/Volaility-Fitting)
+- [FX Strategy with ML](https://github.com/Quant-Kenneth/FX-Strategy-From-Macro-Signals-to-ML-Driven-Positioning)
 
 <h2>👨🏻‍🏫 Academical Projects</h2>
 
